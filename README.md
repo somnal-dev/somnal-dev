@@ -5,3 +5,6 @@
 [🥇 Solved.ac](https://solved.ac/profile/somnwal)
 
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somnwal&show_icons=true&theme=radical)
