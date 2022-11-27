@@ -1,12 +1,10 @@
 # 솜놜 (Som Nwal) 🍧
 
-[📗 블로그](https://somnwal.tistory.com/)
 <a href="https://somnwal.tistory.com/"><img src="https://img.shields.io/badge/블로그-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 <br/>
 
 ## ⚒️ Tech Stack ⚒️
-**Techs that I've used at least once**
 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
