@@ -1,4 +1,4 @@
-# 최정현 (Choi Jeong Hyeon, Somnwal) 🍧
+# 최정현, 솜놜 (Choi Jeong Hyeon, Somnwal) 🍧
 
 <a href="https://somnwal.tistory.com/"><img src="https://img.shields.io/badge/블로그-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
