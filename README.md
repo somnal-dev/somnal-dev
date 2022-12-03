@@ -23,7 +23,7 @@
 <br/>
 
 ## About Me
-\\<!--
+\<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somnwal&show_icons=true&theme=tokyonight)
 -->
 
