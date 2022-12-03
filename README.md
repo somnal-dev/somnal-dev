@@ -1,4 +1,4 @@
-# Hi, I'm Somnwal 🍧
+## 안녕하세요 ✋
 
 <a href="https://somnwal.tistory.com/"><img src="https://img.shields.io/badge/블로그-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://solved.ac/somnwal"><img src="https://img.shields.io/badge/Solved.ac-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/></a>
@@ -31,7 +31,7 @@
 
 <br/>
 
-## About Me
+## 저는 ...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somnwal&layout=compact&theme=tokyonight)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=somnwal)](https://solved.ac/somnwal)
 
