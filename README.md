@@ -6,6 +6,14 @@
 &nbsp;
 &nbsp;
 
+## About Me
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somnwal&layout=compact&theme=tokyonight)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=somnwal)](https://solved.ac/somnwal)
+
+&nbsp;
+&nbsp;
+&nbsp;
+
 ## ⚒️ Tech Stack ⚒️
 
 <img src="https://img.shields.io/badge/Java-4A86CF?style=flat-square&logo=Oracle&logoColor=white"/></a>
@@ -26,13 +34,4 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=whtie"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Yolo-000000?style=flat-square&logo=Yolo&logoColor=white"/></a>
-
-<br/>
-<br/>
-
-## About Me
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somnwal&layout=compact&theme=tokyonight)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=somnwal)](https://solved.ac/somnwal)
-
-<br/>
 
