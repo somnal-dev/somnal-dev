@@ -1,5 +1,5 @@
 <a href="https://somnwal.tistory.com/"><img src="https://img.shields.io/badge/블로그-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-
+<a href="https://somnwal.github.io/portfolio"><img src="https://img.shields.io/badge/포트폴리오-000000?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <br/>
 <br/>
 <br/>
