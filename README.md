@@ -1,10 +1,10 @@
 <a href="https://somnwal.tistory.com/"><img src="https://img.shields.io/badge/블로그-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://somnwal.github.io/portfolio"><img src="https://img.shields.io/badge/포트폴리오-E60012?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
+<a href="https://github.com/somnwal/TIL"><img src="https://img.shields.io/badge/공부 기록-000000?style=flat-square&logo=GitBook&logoColor=white"/></a>
 <br/>
 <br/>
 <br/>
 <br/>
-
 
 ## ⭐ 가장 많이 쓰는 언어 & 알고리즘 수준
 알고리즘 수준은 [Solve.ac](https://solved.ac/somnwal) 기준으로 표시됩니다.
