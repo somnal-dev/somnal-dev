@@ -1,7 +1,7 @@
 <a href="https://somnwal.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/블로그-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://github.com/somnwal/TIL" target="_blank"><img src="https://img.shields.io/badge/공부 기록-000000?style=flat-square&logo=GitBook&logoColor=white"/></a>
 
-[![](https://github.com/somnwal/somnwal/blob/main/img/banner.png?raw=true)](https://somnwal.github.io/portfolio)
+[![](https://github.com/somnwal/somnwal/blob/main/img/banner2.png?raw=true)](https://somnwal.github.io/portfolio)
 <br/>
 <br/>
 <br/>
