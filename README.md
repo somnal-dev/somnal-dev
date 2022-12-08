@@ -9,7 +9,7 @@
 ## ⭐ 가장 많이 쓰는 언어 & 알고리즘 수준
 알고리즘 수준은 [Solve.ac](https://solved.ac/somnwal) 기준으로 표시됩니다.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somnwal&layout=compact&theme=tokyonight)](https://somnwal.github.io/portfolio)
+[![Top Langs](http://vercel-somnwal.vercel.app/api/top-langs/?username=somnwal&layout=compact&theme=tokyonight)](https://somnwal.github.io/portfolio)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=somnwal)](https://solved.ac/somnwal)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsomnwal&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
