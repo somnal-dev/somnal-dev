@@ -11,6 +11,5 @@
 
 [![Top Langs](http://github-readme-stats-somnwal.vercel.app/api/top-langs/?username=somnwal&exclude_repo=github-readme-stats&layout=compact&theme=tokyonight&langs_count=6&custom_title=가장%20많이%20쓰는%20언어&hide=jupyter%20notebook)](https://somnwal.github.io/portfolio)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=somnwal)](https://solved.ac/somnwal)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsomnwal&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
