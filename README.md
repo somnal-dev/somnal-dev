@@ -1,7 +1,14 @@
 <a href="https://somnwal.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/블로그-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://github.com/somnwal/TIL" target="_blank"><img src="https://img.shields.io/badge/공부 기록-000000?style=flat-square&logo=GitBook&logoColor=white"/></a>
-<a href="https://somnwal.notion.site/3c665d5f2f0d419bb92b0f975066aa61" target="_blank"><img src="https://img.shields.io/badge/포트폴리오-E60012?style=flat-square&logo=GitHub Sponsors&logoColor=white"/></a>
 
+<br/>
+
+<h1> 포트폴리오 </h1>
+<a href="https://somnwal.notion.site/3c665d5f2f0d419bb92b0f975066aa61" target="_blank">
+  <img src="https://github.com/somnwal/somnwal/blob/main/Notion_app_logo.png?raw=true" width="50px" />
+</a> ⏪ 포트폴리오 바로가기!
+
+<br/>
 <br/>
 
 
