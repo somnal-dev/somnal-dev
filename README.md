@@ -5,7 +5,7 @@
 <h2>운영 중인 웹사이트 & 앱</h2>
 
 <a href="https://yeoreogaji.kr" target="_blank">
-  <img src="https://github.com/somnwal/somnwal/blob/main/yeoreogaji.png?raw=true" width="50px" />
+  <img src="https://github.com/somnwal/somnwal/blob/main/yeoreogaji_logo.png?raw=true" width="50px" />
 </a>
 
 <br/>
