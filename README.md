@@ -9,8 +9,6 @@
 | 여러가지      | <a href="https://yeoreogaji.kr" target="_blank"><img src="https://github.com/somnwal/somnwal/blob/main/yeoreogaji_logo.png?raw=true" width="50px" /></a>   |
 
 <br/>
-<br/>
-<br/>
 
 <h2><a href="https://somnwal.notion.site/3c665d5f2f0d419bb92b0f975066aa61" target="_blank">포트폴리오</a></h2>
 <a href="https://somnwal.notion.site/3c665d5f2f0d419bb92b0f975066aa61" target="_blank">
@@ -19,7 +17,6 @@
 
 <br/>
 <br/>
-
 
 ## ⭐ 가장 많이 쓰는 언어 & 알고리즘 수준
 알고리즘 수준은 [Solve.ac](https://solved.ac/somnwal) 기준으로 표시됩니다. (안 보이면 새로고침 해주세요!)
