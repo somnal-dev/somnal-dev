@@ -4,7 +4,7 @@
 <br/>
 <h2>운영 중인 웹사이트 & 앱</h2>
 
-| 서비스 명     | 바로가기                                                                              | 서비스 일자 |
+| 서비스 명     | 바로가기(클릭!)                                                                       | 서비스 일자 |
 | -------------|:------------------------------------------------------------------------------------ |:------------|
 | 여러가지      | <a href="https://yeoreogaji.kr" target="_blank"><img src="https://github.com/somnwal/somnwal/blob/main/yeoreogaji_logo.png?raw=true" width="50px" /></a>   | 2023.02.03 ~ |
 | 나만 아니면 돼 | <a href="#" target="_blank"><img src="https://github.com/somnwal/somnwal/blob/main/not_me_logo.png?raw=true" width="50px" /></a>   | 개발 중 |
