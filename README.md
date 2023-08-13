@@ -1,20 +1,23 @@
 <a href="https://somnwal.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/블로그-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
-
-<br/>
-<h2>운영 중인 웹사이트 & 앱</h2>
-
-| 서비스 명     | 바로가기(클릭!)                                                                       | 서비스 일자 |
-| -------------|:------------------------------------------------------------------------------------ |:------------|
-| 여러가지      | <a href="https://yeoreogaji.kr" target="_blank"><img src="https://github.com/somnwal/somnwal/blob/main/yeoreogaji_logo.png?raw=true" width="50px" /></a>   | 2023.02.03 ~ |
-| 나만 아니면 돼 | <a href="#" target="_blank"><img src="https://github.com/somnwal/somnwal/blob/main/not_me_logo.png?raw=true" width="50px" /></a>   | 개발 중 |
-| 콜로세움       |  -  | 개발 중 |
-<br/>
-
 <h2><a href="https://somnwal.notion.site/3c665d5f2f0d419bb92b0f975066aa61" target="_blank">포트폴리오</a></h2>
 <a href="https://somnwal.notion.site/3c665d5f2f0d419bb92b0f975066aa61" target="_blank">
   <img src="https://github.com/somnwal/somnwal/blob/main/Notion_app_logo.png?raw=true" width="50px" />
 </a>
+
+<br/>
+<br/>
+<br/>
+
+<h2>운영 중인 웹사이트 & 앱</h2>
+
+| 서비스 명     | 바로가기                                                                       | 서비스 일자 |
+| -------------|:------------------------------------------------------------------------------------ |:------------|
+| 여러가지      | <a href="https://yeoreogaji.kr" target="_blank"><img src="https://github.com/somnwal/somnwal/blob/main/yeoreogaji_logo.png?raw=true" width="50px" /></a>   | 2023.02.03 ~ |
+| 나만 아니면 돼 | <a href="#" target="_blank"><img src="https://github.com/somnwal/somnwal/blob/main/not_me_logo.png?raw=true" width="50px" /></a>   | 2023.04.01 ~ |
+<br/>
+
+
 
 <br/>
 <br/>
