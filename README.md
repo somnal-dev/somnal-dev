@@ -3,6 +3,11 @@
   <img src="https://github.com/somnwal/somnwal/blob/main/Notion_app_logo.png?raw=true" width="50px" />
 </a>
 
+<br/><br/>
+
+<h2>운영 중인 서비스</h2>
+(준비 중 ...)
+
 <br/>
 <br/>
 <br/>
