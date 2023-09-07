@@ -6,7 +6,23 @@
 <br/><br/>
 
 <h2>운영 중인 서비스</h2>
-(준비 중 ...)
+
+<table>
+  <thead>
+    <th>아이콘</th>
+    <th>서비스명</th>
+    <th>설명</th>
+    <th>LINK</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>SOMNWAL SHOP</td>
+      <td>SpringBoot 로 제작한 NFT 마켓</td>
+      <td>(준비중 ...)</td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 <br/>
