@@ -34,9 +34,11 @@
     </tr>
     <tr>
       <td></td>
-      <td>SOMNWAL SHOP</td>
-      <td>SpringBoot 로 제작한 NFT 마켓</td>
-      <td>(준비중 ...)</td>
+      <td>잼민이 안경</td>
+      <td>여러가지 심심풀이용 테스트 사이트</td>
+      <td>
+        (준비중 ...)
+      </td>
     </tr>
   </tbody>
 </table>
