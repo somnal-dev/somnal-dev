@@ -27,7 +27,7 @@
       </td>
     </tr>
     <tr>
-      <td></td>
+      <td><img src="https://github.com/somnwal/somnwal/blob/main/jammin_logo.png" width="50px" height="50px"/></td>
       <td>잼민이 안경</td>
       <td>여러가지 심심풀이용 테스트 사이트</td>
       <td>
