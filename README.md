@@ -17,7 +17,7 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://github.com/somnwal/somnwal/blob/main/not_me_logo.png" width="50px" height="50px" />
+        <a href="#"><img src="https://github.com/somnwal/somnwal/blob/main/not_me_logo.png" width="50px" height="50px" /></a>
       </td>
       <td>나만 아니면 돼</td>
       <td>Flutter로 제작한 내기 게임 어플</td>
@@ -27,7 +27,11 @@
       </td>
     </tr>
     <tr>
-      <td><img src="https://github.com/somnwal/somnwal/blob/main/jammin_logo.png" width="50px" height="50px"/></td>
+      <td>
+        <a href="#">
+          <img src="https://github.com/somnwal/somnwal/blob/main/jammin_logo.png" width="50px" height="50px"/>
+        </a>  
+      </td>
       <td>잼민이 안경</td>
       <td>여러가지 심심풀이용 테스트 사이트</td>
       <td>
