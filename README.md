@@ -23,7 +23,6 @@
       <td>Flutter로 제작한 내기 게임 어플</td>
       <td>
         <a href="https://play.google.com/store/apps/details?id=com.somnwal.not_me">[안드로이드]</a>
-        <a href="https://apps.apple.com/us/app/%EB%82%98%EB%A7%8C-%EC%95%84%EB%8B%88%EB%A9%B4-%EB%8F%BC/id6447194813">[아이폰]</a>
       </td>
     </tr>
     <tr>
