@@ -7,45 +7,7 @@
 
 <h2>운영 중인 서비스</h2>
 
-<table>
-  <thead>
-    <th>아이콘</th>
-    <th>서비스명</th>
-    <th>설명</th>
-    <th>LINK</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="#"><img src="https://github.com/somnwal/somnwal/blob/main/not_me_logo.png" width="50px" height="50px" /></a>
-      </td>
-      <td>나만 아니면 돼</td>
-      <td>Flutter로 제작한 내기 게임 어플</td>
-      <td>
-        <a href="https://play.google.com/store/apps/details?id=com.somnwal.not_me">[안드로이드]</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#">
-          <img src="https://github.com/somnwal/somnwal/blob/main/jammin_logo.png" width="50px" height="50px"/>
-        </a>  
-      </td>
-      <td>잼민이 안경</td>
-      <td>여러가지 심심풀이용 테스트 사이트</td>
-      <td>
-        (준비중 ...)
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>SOMNWAL SHOP</td>
-      <td>SpringBoot 로 제작한 NFT 마켓</td>
-      <td>(준비중 ...)</td>
-    </tr>
-    
-  </tbody>
-</table>
+준비 중..
 
 <br/>
 <br/>
