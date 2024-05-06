@@ -1,6 +1,6 @@
-<h2><a href="https://somnwal.notion.site/3c665d5f2f0d419bb92b0f975066aa61" target="_blank">포트폴리오</a></h2>
-<a href="https://somnwal.notion.site/3c665d5f2f0d419bb92b0f975066aa61" target="_blank">
-  <img src="https://github.com/somnwal/somnwal/blob/main/Notion_app_logo.png?raw=true" width="50px" />
+<h2><a href="https://somnwal.github.io" target="_blank">포트폴리오</a></h2>
+<a href="https://somnwal.github.io" target="_blank">
+  바로 가기
 </a>
 
 <br/><br/>
