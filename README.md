@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-## Baekjoon Online Judge
+## 🏆 Baekjoon Online Judge
 알고리즘 수준은 [Solve.ac](https://solved.ac/somnwal) 기준으로 표시됩니다. (안 보이면 새로고침 해주세요!)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=somnwal)](https://solved.ac/somnwal)
