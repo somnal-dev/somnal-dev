@@ -1,15 +1,3 @@
-## 블로그
-[https://conttonray.tistory.com](https://conttonray.tistory.com)
-
-<br/>
-
-## 운영 중인 사이트
-|            이름            |                    주소                    |
-|:--------------------------|:------------------------------------------|
-| Somnal-Docs               | https://somnal-docs.vercel.app            |
-| 위드파크                    | https://withpark.vercel.app               |
-
-<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somnal-dev&layout=donut&theme=tokyonight&langs_count=6&custom_title=가장%20많이%20쓰는%20언어&hide=jupyter%20notebook)]()
 
